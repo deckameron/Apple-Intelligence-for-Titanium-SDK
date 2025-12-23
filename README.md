@@ -2,6 +2,9 @@
 
 Titanium SDK module for integration with Apple Foundation Models. A local 3B generative AI on iOS 26+.
 
+### Looking for the Android solution?
+-  Titanium SDK module for Googles ML Kit GenAI [https://developers.google.com/ml-kit/genai](https://developers.google.com/ml-kit/genai)
+
 ##  Table of Contents
 
 - [Overview](#overview)
@@ -28,8 +31,6 @@ This module enables the use of the **Apple Foundation Models** framework in Tita
   - **Dynamic schemas** for flexible data structures    
   - **100% private** - local device processing    
   - **Zero network latency** - no internet required
-
- 
 
 ### What the model does WELL:
 
