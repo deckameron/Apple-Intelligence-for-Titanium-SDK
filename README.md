@@ -21,29 +21,31 @@ This module enables the use of the **Apple Foundation Models** framework in Tita
 
 ### Key Features:
 
-✅ **Text generation** with real-time streaming  
-✅ **Structured analysis** using @Generable types  
-✅ **Data extraction** (contacts, keywords, entities)  
-✅ **Text classification** into custom categories  
-✅ **Dynamic schemas** for flexible data structures  
-✅ **100% private** - local device processing  
-✅ **Zero network latency** - no internet required  
+ - **Text generation** with real-time streaming    
+ - **Structured analysis** using @Generable types    
+ - **Data extraction** (contacts, keywords, entities)    
+  - **Text classification** into custom categories
+  - **Dynamic schemas** for flexible data structures    
+  - **100% private** - local device processing    
+  - **Zero network latency** - no internet required
+
+ 
 
 ### What the model does WELL:
 
-- ✅ Text summarization
-- ✅ Structured information extraction
-- ✅ Classification and categorization
-- ✅ Sentiment analysis
-- ✅ Short/medium text generation
-- ✅ Entity extraction
+-  Text summarization
+-  Structured information extraction
+-  Classification and categorization
+-  Sentiment analysis
+-  Short/medium text generation
+-  Entity extraction
 
 ### What the model does NOT do:
 
-- ❌ General world knowledge (uses server model)
-- ❌ Complex mathematical reasoning
-- ❌ Code generation
-- ❌ Long responses (~4096 token limit)
+-  General world knowledge (uses server model)
+-  Complex mathematical reasoning
+-  Code generation
+-  Long responses (~**4096 token limit**)
 
 ---
 
@@ -68,9 +70,9 @@ This module enables the use of the **Apple Foundation Models** framework in Tita
 
 ### Device Settings
 
-- ✅ Apple Intelligence **ENABLED** in Settings
-- ✅ Siri Language: English (US) or other supported
-- ✅ Model fully **downloaded** (~3 GB)
+- Apple Intelligence **ENABLED** in Settings
+- Siri Language: English (US) or other supported
+- Model fully **downloaded** (~3 GB)
 
 ⚠️ **IMPORTANT**: In order to work on Simulator, you need to enable Apple Intelligence on your Mac.
 
