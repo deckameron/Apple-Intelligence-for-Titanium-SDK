@@ -234,6 +234,7 @@ class TiAppleIntelligenceModule: TiModule {
     
     @objc(generateText:)
     func generateText(args: [Any]?) {
+        
         guard let dict = args?.first as? [String: Any],
               let prompt = dict["prompt"] as? String,
               let callback = dict["callback"] as? KrollCallback else {
