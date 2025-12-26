@@ -1,5 +1,7 @@
 # Apple Intelligence for Titanium SDK
 
+![Titanium](https://img.shields.io/badge/Titanium-13.0+-red.svg) ![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)
+
 Titanium SDK module for integration with Apple Foundation Models. A local 3B generative AI on iOS 26+.
 
 ### Looking for the Android solution?
